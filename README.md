@@ -40,7 +40,7 @@ Follow the below instructions to install it and create an environment for the co
 Every time you want to work, do the following:
 
 1. Open a terminal. Windows: open the Anaconda Prompt from the Start menu.
-1. Activate the environment with `conda activate matrix-analysis-2023`.
+1. Activate the environment with `conda activate matrix-analysis-2024`.
 1. Navigate to the folder where you stored the course material with `cd path/to/folder/matrix-analysis-2024`.
 1. Start Jupyter with `jupyter lab`. The command should open a new tab in your web browser.
 1. Edit and run the notebooks from your browser.
